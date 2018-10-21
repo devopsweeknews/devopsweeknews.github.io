@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Devops Week News</title>
-    <link>http://devopsweeknews.com/tags/</link>
+    <link>https://devopsweeknews.com/tags/</link>
     <description>Recent content in Tags on Devops Week News</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>DevOps Week News 2018</copyright>
     
-	<atom:link href="http://devopsweeknews.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devopsweeknews.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
